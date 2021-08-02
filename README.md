@@ -2,27 +2,27 @@
 
 This is a sample playwright example repository showcasing different playwright features - 
 
-## TheFirstCode (capture screenshot ) 
+### TheFirstCode (capture screenshot ) 
 
-## BrowserContext
+### BrowserContext
 
-## PageEvent
+### PageEvent
 
-## VideoRecording
+### VideoRecording
 
-## Assertions
+### Assertions
 
-## Autowaiting
+### Autowaiting
 
-## Channel
+### Channel
 
-## DeviceEmulation
+### DeviceEmulation
 
-## NetworkIntercept
+### NetworkIntercept
 
-## Storage 
+### Storage 
 
-## Geolocation
+### Geolocation
 
 
 
